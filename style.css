@@ -65,6 +65,10 @@ h1 {
 	background-color: #DEF3FD;
 }
 
+.ghost {
+    background-color: #F8F8FF;
+}
+
 .ground {
 	background-color: #f4e7da;
 }
